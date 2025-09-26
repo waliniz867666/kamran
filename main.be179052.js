@@ -9848,7 +9848,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://request-for-immediate-action.replit.app/attached_assets/video-information.mp4",
+                                        src: "video.mp4",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13527,4 +13527,5 @@
     }
     )()
 }
+
 )();
